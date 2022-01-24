@@ -8,5 +8,5 @@ Dataset link: - https://drive.google.com/drive/folders/1EUX0rZx_6tOT_mjiw3PzCbXQ
 <br>Training on IBM Watson Studio Folder: - https://drive.google.com/drive/folders/1UcnojEtooKCakBneLQud43TGyg9V8gWV?usp=sharing
 
 Now we will have a look at the model files: - 
-<br>Training model: - https://drive.google.com/file/d/18ubIxdMTImfWTFVK-qduDOQQb7kMpUl_/view?usp=sharing
-<br>Training Model of IBM: - https://drive.google.com/file/d/1Lb-U_GVjtKR36U_iGZ5fzsm5qjPZP5YN/view?usp=sharing
+<br>Training Model (pneumonia.h5): - https://drive.google.com/file/d/18ubIxdMTImfWTFVK-qduDOQQb7kMpUl_/view?usp=sharing
+<br>Training Model of IBM (pneumo_IBM.h5) : - https://drive.google.com/file/d/1Lb-U_GVjtKR36U_iGZ5fzsm5qjPZP5YN/view?usp=sharing
